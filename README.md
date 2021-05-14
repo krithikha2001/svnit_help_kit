@@ -1,4 +1,4 @@
-## Sem 3, 4 resources
+## Sem 3, 4 resources-CSE
 - Tutorials 
 - Assignments 
 - Reference book                 
