@@ -1,6 +1,6 @@
 ## CSE - Sem 3, 4 resources
 - Tutorials 
 - Assignments 
-- Reference book                 
+- Reference books                 
 
 are being uploaded here...
